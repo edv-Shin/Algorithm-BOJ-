@@ -46,6 +46,5 @@ public class BOJ1018 {
 		count = Math.min(count, 64 - count);
 		min = Math.min(min, count);
     }
-} {
-   
 }
+
